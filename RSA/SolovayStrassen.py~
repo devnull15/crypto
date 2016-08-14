@@ -1,0 +1,3 @@
+from sqrtmod import jacobi
+
+print jacobi(1892,5355)

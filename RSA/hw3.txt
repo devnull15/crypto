@@ -1,0 +1,7 @@
+m150876@mich302csd04u:~/crypto/RSA$ python SolovayStrassen.py
+Enter your number: 1005
+1005 is composite.
+m150876@mich302csd04u:~/crypto/RSA$ python SolovayStrassen.py
+Enter your number: 1013
+1013 is prime.
+
